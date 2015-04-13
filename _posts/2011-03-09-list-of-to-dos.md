@@ -3,19 +3,6 @@ title: List of To-Dos
 author: joe
 layout: post
 permalink: /?p=96
-jabber_published:
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
-  - 1299706343
 categories:
   - motorcycles
 ---
@@ -36,4 +23,4 @@ I have many things to still do, including:
   * Clean carbs
   * Finish removing California air box
 
-&#8230;.and I don&#8217;t have much time before Spring comes.
+...and I don't have much time before Spring comes.
