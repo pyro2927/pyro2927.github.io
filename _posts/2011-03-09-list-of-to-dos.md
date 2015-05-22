@@ -2,7 +2,7 @@
 title: List of To-Dos
 author: joe
 layout: post
-permalink: /?p=96
+permalink: /to-dos
 categories:
   - motorcycles
 ---
